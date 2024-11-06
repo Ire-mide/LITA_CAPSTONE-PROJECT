@@ -34,6 +34,8 @@ This project aims to perform an in-depth analysis of customer and sales data for
 
 In this section, we performed preliminary data analysis, cleaned the raw data, and explored initial trends. Excel was also used to create basic charts and pivot tables to summarize key metrics.
 
+![Excel Analysis Screenshot](images/Excel.png)
+
 ![Excel Analysis Screenshot](images/excel/excel-analysis-screenshot.png)
 
 ### SQL Queries
