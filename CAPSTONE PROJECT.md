@@ -33,22 +33,23 @@ This project aims to perform an in-depth analysis of customer and sales data for
 ### Excel Analysis
 
 In this section, we performed preliminary data analysis, cleaned the raw data, and explored initial trends. Excel was also used to create basic charts and pivot tables to summarize key metrics.
+![Exceel](Images/Excel1.jpg)
+![Exceel](Images/Excel2.jpg)
 
-![Excel Analysis Screenshot](images/Excel.png)
-
-![Excel Analysis Screenshot](images/excel/excel-analysis-screenshot.png)
 
 ### SQL Queries
 
 Using SQL, we queried the data to retrieve detailed insights into customer behavior, subscription trends, and sales performance. SQL allowed for efficient data extraction and transformation, especially with large datasets.
 
-![SQL Query Screenshot](images/sql/sql-query-screenshot.png)
+![SQL](Images/SQL1.jpg)
+![](Images/SQL2.jpg)
+![](Images/SQL3.jpg)
 
 ### Power BI Visualizations
 
 With Power BI, we built interactive dashboards that visualize key insights, such as top-selling products, customer demographics, subscription renewal rates, and regional performance. These visualizations provide a clear overview for stakeholders.
 
-![Power BI Visualization](images/powerbi/powerbi-visualization.png)
+![Sales Perfomance Analysis](Images/Saleperformance.jpg)
 
 ---
 
