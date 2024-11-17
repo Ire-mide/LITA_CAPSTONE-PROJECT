@@ -52,8 +52,8 @@ Using SQL, we queried the data to retrieve detailed insights into customer behav
 With Power BI, we built interactive dashboards that visualize key insights, such as top-selling products, customer demographics, subscription renewal rates, and regional performance. These visualizations provide a clear overview for stakeholders.
 
 ![Sales Perfomance Analysis](Images/Saleperformance.jpg)
-
----
+![Sales Perfomance Analysis](Images/Subscription1.jpg)
+![Sales Perfomance Analysis](Images/Subscription2.jpg)
 
 ## Insights and Findings
 
